@@ -1,4 +1,4 @@
-# EX-2-prompt-engineering-Comparative Analysis of different types of Prompting patterns and explain with Various Test scenerios
+# EX-5-prompt-engineering-Comparative Analysis of different types of Prompting patterns and explain with Various Test scenerios
 ## Name: Aishwarya S
 ## Reg No: 212222100003
 ### Aim:
